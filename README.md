@@ -1,4 +1,6 @@
+# Hi we are team 12 Sachin Chahal and Margaret DuCasse
 
+Welcome to our Ping Pong game!
 
 Regression Modeling with California Housing Dataset
 📊 Dataset
