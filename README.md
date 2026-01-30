@@ -2,6 +2,8 @@
 
 Welcome to our Ping Pong game!
 
+Below is the explanation of our code what we have done and how to run it.
+
 Regression Modeling with California Housing Dataset
 📊 Dataset
 
